@@ -1,4 +1,4 @@
-<a href='https://eduardocucco.github.io/busca-cep/'>Weather Search</a>
+<a href='https://eduardocucco.github.io/busca-cep/'>Buscar Cep</a>
 
 ## 💻 Buscar Cep
 Buscar Cep is a simple application that provides data on a city, neighborhood or street registered by this code in Brazil.
